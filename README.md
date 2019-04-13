@@ -1,0 +1,2 @@
+# sharada
+Telugu OCR
